@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "my third blog",
+      "body": "Lorem.........",
+      "author": "kavi",
+      "id": 3
+    },
+    {
+      "title": "siva",
+      "body": "dsjlkfj;asdlkfldkmnfdlvknmlk",
+      "author": "selva",
+      "id": 5
+    },
+    {
+      "title": "parvadha's blog",
+      "body": "this is our first blog in our blogs site",
+      "author": "selva",
+      "id": 6
+    },
+    {
+      "title": ",mk",
+      "body": " j nj",
+      "author": "selva",
+      "id": 7
+    }
+  ]
+}
