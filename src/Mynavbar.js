@@ -13,8 +13,8 @@ function Mynavbar(){
                         <Nav className="me-auto">
                         </Nav>
                         <Nav >
-                            <Link to="/">Home</Link>
-                            <Link to='/create'>New Blog</Link>
+                            <Link className='Link' to="/">Home</Link>
+                            <Link className='Link' to='/create'>New Blog</Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
